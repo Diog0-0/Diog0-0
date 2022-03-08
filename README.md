@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje atuando com front-end.
-- 🌱 Estudando: ReactJS, React Native e NodeJ.
+- 🌱 Estudando: ReactJS, React Native, NodeJs, Angular e TS.
 - 📫 Contate-me no email: dsnogueira489@gmail.com
 - 😄 Pronouns: ele
 
