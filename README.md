@@ -26,6 +26,7 @@
 </div>
   
   ##
+  <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="">
   
  <div>
    <a href="https://www.linkedin.com/in/diogo-nogueira-6365a8186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
