@@ -30,7 +30,7 @@
     <a href="https://www.linkedin.com/in/diogo-nogueira-6365a8186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://discordapp.com/users/859917433875070976" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     <hr>
-    [URL=https://gifs.alphacoders.com/gifs/view/14685][IMG]https://giffiles.alphacoders.com/146/14685.gif[/IMG][/URL]
+    <img src="https://giffiles.alphacoders.com/146/14685.gif">
    
   ![Snake animation](https://github.com/Diog0-0/Diog0-0/blob/output/github-contribution-grid-snake.svg)
   </div>
