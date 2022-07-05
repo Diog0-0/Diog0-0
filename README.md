@@ -5,7 +5,7 @@
 - 🌱 Estudando: ReactJS, React Native, NodeJs, Angular e TS.
 - 📫 Contate-me no email: dsnogueira489@gmail.com
 - 😄 Pronouns: ele
-- 
+
 <div align="center">
   <div>
     <a href="https://github.com/Diog0-0">
