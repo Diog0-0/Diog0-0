@@ -25,7 +25,7 @@
     <img align="center" alt="Diogo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Diogo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
-
+  <hr>
   <div>
     <a href="https://www.linkedin.com/in/diogo-nogueira-6365a8186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://discordapp.com/users/859917433875070976" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
