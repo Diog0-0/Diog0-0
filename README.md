@@ -3,7 +3,7 @@
 
 - 🔭 Hoje atuando com front-end.
 - 🌱 Estudando: ReactJS, React Native, NodeJs, Angular e TS.
-- 📫 Contate-me no email: dsnogueira489@gmail.com
+- 📫 Contate-me no email: diogo@spartans.dev.br
 - 😄 Pronouns: ele
 
 <div align="center">
