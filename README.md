@@ -1,10 +1,17 @@
 ### Hi there, i'm Diogo Sousa Nogueira👋  
 
 
-- 🔭 Hoje atuando com front-end.
-- 🌱 Estudando: ReactJS, React Native, NodeJs, Angular e TS.
+- 🔭 Hoje na posição fullstack.
+- 🔭 today in fullstack position.
+
+- 📖 Estudando: ReactJS, React Native, NodeJs, Angular e TS.
+- 📖 Studying: ReactJS, React Native, NodeJs, Angular and TS.
+
 - 📫 Contate-me no email: diogo@spartans.dev.br
-- 😄 Pronouns: ele
+- 📫 Contact me on email: diogo@spartans.dev.br
+
+- 😄 pronome: Ele
+- 😄 Pronoun: He
 
 <div align="center">
   <div>
