@@ -7,8 +7,8 @@
 - 📖 Estudando: ReactJS, React Native, NodeJs, Angular e TS.
 - 📖 Studying: ReactJS, React Native, NodeJs, Angular and TS.
 
-- 📫 Contate-me no email: diogo@spartans.dev.br
-- 📫 Contact me on email: diogo@spartans.dev.br
+- 📫 Contate-me no email: dsnogueira489@gmail.com
+- 📫 Contact me on email: dsnogueira489@gmail.com
 
 - 😄 pronome: Ele
 - 😄 Pronoun: He
