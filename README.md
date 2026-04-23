@@ -1,31 +1,66 @@
 ### Hi there, I'm Diogo Sousa Nogueira 👋
 
 Desenvolvedor **Fullstack** apaixonado por tecnologia e inovação.  
-*"Transformando ideias em soluções digitais."*
+_"Transformando ideias em soluções digitais."_
 
 ---
 
 ## 🔭 Atualmente
+
 - Fullstack Developer
 - Trabalhando com ReactJS, Angular, React Native, Ionic, NodeJs e NestJS
 
 ## 🧰 Tecnologias & Ferramentas
-<div style="display: flex">
-  <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Diogo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Diogo-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Diogo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Diogo-Ionic" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-  <img align="center" alt="Diogo-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Diogo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Diogo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 18px;">
+  <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img alt="Angular" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
+  <img alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="Ionic" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" />
+  <img alt="Docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img alt="Csharp" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </div>
+
+## 🚀 Projetos em Destaque
+
+### 🚀 ICW Instabook (Linktree para Instagram)
+
+Projeto colaborativo focado em transformar perfis do Instagram em vitrines digitais inteligentes.
+Contribuindo para finalização de funcionalidades e refatorações essenciais, agregando melhorias de usabilidade e código.
+
+**Destaques:**
+
+- Interface 100% responsiva, experiência mobile-first
+- Customização em tempo real (cores, textos, botões)
+- Integração futura com analytics
+
+Ideal para criadores de conteúdo, pequenos negócios e portfólios.
+
+[🔗 Acesse o projeto](https://instabook.icw.tec.br/)
+
+---
+
+### 🧾 Contabilivre Site
+
+**jan de 2022 – mar de 2022**  
+Associado à Spartans Initiative
+
+Redesign completo do site da corretora Contabilivre, utilizando Angular + Ionic para modernizar a experiência do usuário.
+
+**Competências:** AngularJS, TypeScript, Ionic
+
+Miniatura: Contabilidade Online para Pequenas Empresas | Contabilivre
+
+[🌐 Acesse o site](https://www.contabilivre.com.br/)
 
 ---
 
 ## 📈 Estatísticas do GitHub
+
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Diog0-0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github">
@@ -38,6 +73,7 @@ Desenvolvedor **Fullstack** apaixonado por tecnologia e inovação.
 ---
 
 ## 📫 Contato
+
 - Email: dsnogueira489@gmail.com
 - LinkedIn: [Diogo Nogueira](https://www.linkedin.com/in/diogo-nogueira-6365a8186/)
 - Discord: [Diogo#4890](https://discordapp.com/users/859917433875070976)
@@ -45,6 +81,7 @@ Desenvolvedor **Fullstack** apaixonado por tecnologia e inovação.
 ---
 
 ## ⚡ Curiosidades
+
 - Pronome: Ele / He
 - Sou apaixonado por novas tecnologias, desafios e aprendizado constante.
 
@@ -53,5 +90,3 @@ Desenvolvedor **Fullstack** apaixonado por tecnologia e inovação.
 <div align="center">
   <img src="https://giffiles.alphacoders.com/146/14685.gif">
 </div>
-
-![Snake animation](https://github.com/Diog0-0/Diog0-0/blob/output/github-contribution-grid-snake.svg)
