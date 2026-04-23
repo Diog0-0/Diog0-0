@@ -63,7 +63,7 @@ Miniatura: Contabilidade Online para Pequenas Empresas | Contabilivre
 
 <div>
   <a href="https://github.com/Diog0-0" style="text-decoration: none;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Diog0-0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Diog0-0&show_icons=true&theme=dracula&include_all_commits=false&count_private=true&rank_icon=github" />
   </a>
   <a href="https://github.com/Diog0-0" style="text-decoration: none;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diog0-0&layout=compact&theme=dracula&hide=html,css" />
