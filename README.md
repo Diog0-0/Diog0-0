@@ -10,7 +10,7 @@ Desenvolvedor **Fullstack** apaixonado por tecnologia e inovação.
 - Trabalhando com ReactJS, Angular, React Native, Ionic, NodeJs e NestJS
 
 ## 🧰 Tecnologias & Ferramentas
-<div style="display: inline_block">
+<div style="display: flex">
   <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diogo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
